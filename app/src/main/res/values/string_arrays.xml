@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY test "tEsT">
+    ]>
+<resources>
+    <string-array name="list">
+        <item>&test; 1</item>
+        <item>&test; number 2</item>
+        <item>Third &test;</item>
+        <item>&test; without fantasy</item>
+    </string-array>
+</resources>

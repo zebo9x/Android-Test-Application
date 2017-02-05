@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tests_counter">
+        <item quantity="one">There is &lt;b>only&lt;/b> %d &lt;i>test&lt;/i> available.</item>
+        <item quantity="other">There are %d &lt;i>tests&lt;/i> available.</item>
+    </plurals>
+</resources>
